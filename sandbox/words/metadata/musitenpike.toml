@@ -19,9 +19,6 @@ svg = "https://raw.githubusercontent.com/lipu-linku/ijo/main/sitelenpona/static/
 [representations]
 ligatures = ["musitenpike"]
 
-[usage]
-2025-09 = 0
-
 [resources]
 sona_pona = "https://sona.pona.la/wiki/musitenpike"
 

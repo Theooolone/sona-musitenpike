@@ -14,9 +14,6 @@ alias_ligatures = []
 # teachability = 4
 see_also = ["musi-1", "tenpo-1", "ike-1", "sike-1"]
 
-[usage]
-2025-09 = 0
-
 [translations]
 commentary = ""
 etymology = "musi + sike + ike"
